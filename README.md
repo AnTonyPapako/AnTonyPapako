@@ -1,5 +1,20 @@
-### Hi there 👋
+## Hey o/ ##
 
+### Who am I?
+- **Fullname:** Antonios Papakostas
+- **Age:** 22 ( born in November 2000 )
+
+##
+
+### Undergraduate student of Computer Science at Ionian University ( Corfu, Greece )
+
+##
+
+### Find out more about me below !
+
+Check out my [cv-resume]
+
+##
 <!--
 **AnTonyPapako/AnTonyPapako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
