@@ -12,7 +12,7 @@
 
 ### Find out more about me below !
 
-Check out my [cv-resume]
+// Error 404 - Not found !
 <!--
 **AnTonyPapako/AnTonyPapako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
